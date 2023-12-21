@@ -34,9 +34,3 @@ To use this FSM in your Unity project, follow these steps:
 3. Drag and drop the FSM ScriptableObject into your game objects to integrate the AI behavior.
 
 4. Customize the FSM and its states as per your game's requirements.
-
-## Usage
-
-Here's a basic example of how to instantiate and use the FSM with ScriptableObject in Unity:
-
-```csharp
