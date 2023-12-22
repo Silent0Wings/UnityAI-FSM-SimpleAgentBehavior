@@ -16,8 +16,7 @@ The enemy AI's behavior is governed by a comprehensive FSM with various states:
 - **Revive (5)**: If the enemy can be revived, this state handles the revival process.
 - **Patrol (6)**: The enemy follows a predefined patrol route or path.
 - **Wander (7)**: A state where the enemy roams around randomly.
-- **Follow (8)**: The enemy follows a specific target or entity.
-
+  
 Transitions between these states are based on various game conditions, including player proximity and the enemy's health.
 
 ## Implementation
