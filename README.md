@@ -39,5 +39,3 @@ To use this FSM in your Unity project, follow these steps:
 3. Drag and drop the FSM ScriptableObject into your game objects to integrate the AI behavior.
 
 4. Customize the FSM, its states, and the Health Manager as per your game's requirements.
-
-Feel free to explore the provided code and documentation to fully understand and utilize the capabilities of this AI system.
