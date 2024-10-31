@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 164323275aaa43f47bf8ee66356e9ac3, type: 3}
+  m_Name: Groupe Behavior
+  m_EditorClassIdentifier: 
+  _Bool_Settings:
+    Is_In_Range: 0
+    Attack_Cooldown: 0
+    Attack_Range: 0
+    Revive: 0
+    Can_Chase: 1
+    Can_Attack: 1
+    Can_Run: 1
+    Can_Wander: 0
+    Can_Patrol: 0
+    can_Run: 1
+    Can_Follow: 0
+  State_Values:
+  - {fileID: 11400000, guid: 822cef41d9338494cbc9ea83815db051, type: 2}
+  - {fileID: 11400000, guid: 7bc0b3b2b8e7bfd468f487d132496aa8, type: 2}
+  - {fileID: 11400000, guid: 2f1a73a19ab67e74db988d532713a727, type: 2}
+  - {fileID: 11400000, guid: 87d556011a7ee3045a4bbbfcdcee838c, type: 2}
+  - {fileID: 11400000, guid: 7657545cf191ced4786f4a6701f6dcdf, type: 2}
+  - {fileID: 11400000, guid: 2dba2a0490677d2438e498b70e8cd4dd, type: 2}
+  - {fileID: 11400000, guid: be76edde1453bd848a40dd99dba1b3ec, type: 2}
+  - {fileID: 11400000, guid: 776e410984a2e89438d24705ec16cfed, type: 2}
+  - {fileID: 11400000, guid: 7bc0b3b2b8e7bfd468f487d132496aa8, type: 2}
+  Health_Instance: {fileID: 11400000, guid: 332bdecb2ec1d304482260f403a6ece5, type: 2}
+  Dic_Val: 8

@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 164323275aaa43f47bf8ee66356e9ac3
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _Idle_State: {fileID: 11400000, guid: 822cef41d9338494cbc9ea83815db051, type: 2}
+  - _Attack_State: {fileID: 11400000, guid: 2f1a73a19ab67e74db988d532713a727, type: 2}
+  - _Chase_State: {fileID: 11400000, guid: 2dba2a0490677d2438e498b70e8cd4dd, type: 2}
+  - _Run_State: {fileID: 11400000, guid: 776e410984a2e89438d24705ec16cfed, type: 2}
+  - _Patrol_State: {fileID: 11400000, guid: 7657545cf191ced4786f4a6701f6dcdf, type: 2}
+  - _Wander_State: {fileID: 11400000, guid: be76edde1453bd848a40dd99dba1b3ec, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
